@@ -55,5 +55,4 @@ public class ReadInsulinData {
 		rid.setInputFile("D:\\Insulin Pump Data.xls");
 		rid.sumData();
 	}
-
 }
